@@ -3,7 +3,7 @@
 This repository contains a **Discord bot** built using `discord.py`. The bot includes multiple functionalities such as **cryptocurrency tracking** and **competition management** using a modular **cog-based structure**.  
 
 ## 🚀 Features  
-- ✅ **Cryptocurrency Tracking** – Get live crypto prices.  
+
 - ✅ **Competition Management** – Manage and track competitions.  
 - ✅ **Custom Commands** – Easily extend functionality using cogs.  
 - ✅ **Environment Variable Support** – Uses `.env` for token management.  
